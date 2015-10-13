@@ -16,7 +16,6 @@ namespace FastFoodWebApplication.Utils
             var imagesDirectoryPath = MapPath(PictureFolderPath);
             var filePath = Path.Combine(imagesDirectoryPath, fileName);
 
-
             var ms = new MemoryStream(pictureBinary);
             var imgPhotoOriginal = Image.FromStream(ms);
 
@@ -26,7 +25,6 @@ namespace FastFoodWebApplication.Utils
             imgPhoto.Save(memoryStream, ImageFormat.Jpeg);
             File.WriteAllBytes(filePath, memoryStream.ToArray());
             imgPhoto.Dispose();
-
         }
 
         public virtual string MapPath(string path)

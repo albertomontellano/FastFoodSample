@@ -1,5 +1,4 @@
 ﻿
-
 namespace FastFoodWebApplication.Utils
 {
     public interface IPictureHandler
