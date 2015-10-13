@@ -1,0 +1,109 @@
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\FastFoodWebApplication.dll.config
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\FastFoodWebApplication.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\FastFoodWebApplication.pdb
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\EntityFramework.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Owin.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Helpers.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Mvc.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Optimization.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Razor.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\WebGrease.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Helpers.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Mvc.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Optimization.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Razor.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\EntityFramework.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\obj\Debug\FastFoodWebApplication.dll
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\obj\Debug\FastFoodWebApplication.pdb
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\FastFoodWebApplication.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\FastFoodWebApplication.pdb
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Antlr3.Runtime.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\EntityFramework.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\EntityFramework.SqlServer.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Google.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Newtonsoft.Json.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Owin.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Helpers.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Mvc.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Optimization.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Razor.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.Razor.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\WebGrease.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Helpers.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Mvc.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Optimization.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.Razor.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\System.Web.WebPages.Razor.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Antlr3.Runtime.pdb
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Newtonsoft.Json.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\EntityFramework.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\EntityFramework.SqlServer.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Google.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\obj\Debug\FastFoodWebApplication.dll
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\obj\Debug\FastFoodWebApplication.pdb
+D:\practicas\proyectos con alberto\dotNet\FastFoodWebApplication\FastFoodWebApplication\obj\Debug\FastFoodWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\alberto.montellano\Desktop\Proyectos Personales\FastFoodWebApplication\FastFoodWebApplication\obj\Debug\FastFoodWebApplication.csprojResolveAssemblyReference.cache
