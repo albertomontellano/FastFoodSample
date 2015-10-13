@@ -1,10 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Web;
 using System.Web.Mvc;
 using FastFoodWebApplication.DataAccess;
 using FastFoodWebApplication.Models;
+using FastFoodWebApplication.Utils;
 
 namespace FastFoodWebApplication.Controllers
 {
@@ -15,7 +15,7 @@ namespace FastFoodWebApplication.Controllers
         public ProductController()
         {
             ProductData = new ProductFromDb();
-            PictureHandler = new PictureHanldler();
+            PictureHandler = new PictureHandler();
         }
 
         // GET: Product
@@ -36,17 +36,15 @@ namespace FastFoodWebApplication.Controllers
             Stream stream = null;
             var fileName = "";
             var fullPictureName = "";
-          
             
-            string PictureNamePrefix = Guid.NewGuid().ToString();
+            string pictureNamePrefix = Guid.NewGuid().ToString();
             fileName = Path.GetFileName(fileUpload.FileName);
-            fullPictureName = PictureNamePrefix + "_" + fileName;
+            fullPictureName = pictureNamePrefix + "_" + fileName;
             productModel.ImageLocation = fullPictureName;
 
             stream = fileUpload.InputStream;
             var fileBinary = new byte[stream.Length];
             stream.Read(fileBinary, 0, fileBinary.Length);
-
              
             ProductData.CreateProduct(productModel);
             PictureHandler.SavePictureInFile(fileBinary, fullPictureName);
