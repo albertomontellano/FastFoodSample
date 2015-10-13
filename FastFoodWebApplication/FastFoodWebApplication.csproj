@@ -194,6 +194,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>FastFoodModel.edmx</DependentUpon>
     </Compile>
+    <Compile Include="EnumsAndConstants\FastFoodConstants.cs" />
     <Compile Include="Models\OrderModel.cs" />
     <Compile Include="Utils\IPictureHandler.cs" />
     <Compile Include="DataAccess\IPersonData.cs" />
